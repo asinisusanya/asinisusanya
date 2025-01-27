@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Asini Susanya</h1>
+<h1 align="center">Hi 👋, I'm Asini Susanya Karunarathna</h1>
 <h3 align="center">💻 Passionate Programmer | 📊 Data Science Enthusiast
 | 🚀 Problem-Solver | 🛠️ Tech Explorer</h3>
 <img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg">
