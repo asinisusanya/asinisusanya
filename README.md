@@ -5,7 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asinisusanya&label=Profile%20views&color=0e75b6&style=flat" alt="asinisusanya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asinisusanya&label=Profile%20views&color=0e75b6&style=flat" alt="asinisusanya" /> 
+
+</p>
 
 - 🌐 Exploring the world of AI, Machine Learning, and IoT
 - 🛠️ Building impactful projects in Java, Python, and SQL
@@ -17,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/asini-susanya-31a965275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/asini-susanya-31a965275" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61556654695092&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61556654695092&mibextid=zbwkwl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
