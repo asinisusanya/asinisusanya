@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Asini Susanya</h1>
-<h3 align="center">A passionate undergraduate from Sri Lanka</h3>
+<h3 align="center">BSc.(Hons) Statistics and Operations Research(R) | Software Trainee</h3>
 <img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg">
 
 
