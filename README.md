@@ -1,13 +1,11 @@
-
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Asini Susanya Karunarathna</h1>
 <h3 align="center">💻 Passionate Programmer | 📊 Data Science Enthusiast
 | 🚀 Problem-Solver | 🛠️ Tech Explorer</h3>
-<img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asinisusanya&label=Profile%20views&color=0e75b6&style=flat" alt="asinisusanya" /> 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asinisusanya&label=Profile%20views&color=0e75b6&style=flat" alt="asinisusanya" /> 
 </p>
+<img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
 
 - 🌐 Exploring the world of AI, Machine Learning, and IoT
 - 🛠️ Building impactful projects in Java, Python, and SQL
