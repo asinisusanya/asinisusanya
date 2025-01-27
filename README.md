@@ -1,12 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Asini Susanya</h1>
-<h3 align="center">BSc.(Hons) Statistics and Operations Research(R) | Software Trainee</h3>
+<h3 align="center">💻 Passionate Programmer | 📊 Data Science Enthusiast
+| 🚀 Problem-Solver | 🛠️ Tech Explorer</h3>
 <img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asinisusanya&label=Profile%20views&color=0e75b6&style=flat" alt="asinisusanya" /> </p>
 
-- 📫 How to reach me **asinisusanya@gmail.com**
+- 🌐 Exploring the world of AI, Machine Learning, and IoT
+- 🛠️ Building impactful projects in Java, Python, and SQL
+- 📈 Crafting solutions using Statistics and Operations Research
+- 💡 Motto: Keep learning, keep growing, keep building.
+- 🎯 On GitHub: Sharing my journey of growth, from building small tools to tackling real-world challenges!
+- 📫 Reach me **asinisusanya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
