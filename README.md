@@ -4,7 +4,7 @@
 | 🚀 Problem-Solver | 🛠️ Tech Explorer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asinisusanya&label=Profile%20views&color=0e75b6&style=flat" alt="asinisusanya" /> 
 </p>
-<img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
 - 🌐 Exploring the world of AI, Machine Learning, and IoT
