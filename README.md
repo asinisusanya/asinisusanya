@@ -4,26 +4,19 @@
 
 <h3 align="center">
 Final Year Undergraduate | SOR (Hons)<br/>
-ML & Data Science Enthusiast | Operations Research | Problem Solver
+AI & Machine Learning | Data Science & Statistical Modeling | OR & Optimization
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asinisusanya&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
 
-Final-year undergraduate at the **University of Peradeniya**, pursuing a **BSc (Hons) in Statistics & Operations Research**.
-
-My academic focus lies in applying **Machine Learning, Data Science, and Operations Research** to design data-driven models and analytical solutions for real-world problems.  
-I am particularly interested in research-oriented projects that bridge **theory, data, and decision-making**.
-
-🤖 AI & Machine Learning  
-📊 Data Science & Statistical Modeling  
-📐 Operations Research & Optimization
+<p align="center"><em>Designing data-driven models and optimization-based solutions for real-world decision-making.</em></p>
 
 
 ---
+
 
 <h2 align="center">
   🛠️ Languages & Tools
