@@ -13,12 +13,15 @@ ML & Data Science Enthusiast | Operations Research | Problem Solver
 
 ---
 
-<p align="center">
-Final-year undergraduate at University of Peradeniya, following BSc (Hons) in Statistics & Operations Research.  
-</p> 
-<p align="center">
-I am passionate about applying Artificial Intelligence, Machine Learning, Data Science, and Operations Research techniques to solve real-world problems. And I enjoy working on data-driven systems, analytical models, and research-oriented projects that bridge theory and practice.
- </p>
+Final-year undergraduate at the **University of Peradeniya**, pursuing a **BSc (Hons) in Statistics & Operations Research**.
+
+My academic focus lies in applying **Machine Learning, Data Science, and Operations Research** to design data-driven models and analytical solutions for real-world problems.  
+I am particularly interested in research-oriented projects that bridge **theory, data, and decision-making**.
+
+🤖 AI & Machine Learning  
+📊 Data Science & Statistical Modeling  
+📐 Operations Research & Optimization
+
 
 ---
 
@@ -65,9 +68,25 @@ I am passionate about applying Artificial Intelligence, Machine Learning, Data S
 >
  
 
+
 <h2 align="center">⚙️ GitHub Analytics</h2>
 
-![test](https://github-readme-stats.vercel.app/api?username=asinisusanya)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=asinisusanya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+        height="180"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asinisusanya&layout=compact&theme=tokyonight&hide_border=true"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
