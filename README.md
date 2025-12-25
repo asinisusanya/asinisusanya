@@ -67,12 +67,7 @@ I am passionate about applying Artificial Intelligence, Machine Learning, Data S
 
 <h2 align="center">⚙️ GitHub Analytics</h2>
 
-![GitHub Stats](https://github-readme-stats-asinisusanya.vercel.app/api?username=asinisusanya)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asinisusanya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asinisusanya&layout=compact&theme=tokyonight&hide_border=true)
+![test](https://github-readme-stats.vercel.app/api?username=asinisusanya)
 
 
 
